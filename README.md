@@ -14,12 +14,15 @@ To get this repository, run the following command inside your git enabled termin
 ```bash
 git clone https://github.com/repositorynamehere.git
 ```
-You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
-Download django usig pip
+Install the latest version of python3
+
 ```bash
 sudo apt install python3-pip -y
 ```
+You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
+
+Download django using pip
 ```bash
 pip install django
 ```
